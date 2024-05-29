@@ -1,2 +1,2 @@
 # js-projects
-javascript masterclass
+this is my repository for javascript projects
